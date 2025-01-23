@@ -1,0 +1,49 @@
+h2 {
+  color: #e8edf4;
+}
+p {
+  color: #e8edf4;
+}
+li {
+  margin-bottom: green;
+  color: hsl(215, 35%, 93%);
+}
+body {
+  margin: 10px white;
+  background-color: rgb(13, 113, 55);
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  display: inline-flex;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #e8edf4;
+}
+
+a {
+  text-decoration: hov;
+  color: #dce2eb;
+  margin: 50px 10px;
+}
+
+a:hover {
+  color: rgb(142, 235, 181);
+  font-size: 20px;
+}
+
+p {
+  margin: 20px 0;
+}
+
+footer {
+  margin-top: 20px;
+  color: hsl(140, 14%, 92%);
+  padding: 10px 0;
+  font-style: italic;
+}
