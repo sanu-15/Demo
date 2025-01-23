@@ -15,12 +15,13 @@
 <hr>
 
 <center>
-<a href="Home.html",>Home</a>
-<a href="About.html",>About us</a>
-<a href="Contact.html",>Contact us</a>
-<a href="Login.html",>Login</a>
-<a href="Reg.html",>Registration</a>
-<a href="Thankyou.html",>Thank you</a>
+<a href="Home.php" ,>Home</a>
+      <a href="About.php" ,>About us</a>
+      <a href="Contact.php" ,>Contact us</a>
+      <a href="Login.php" ,>Login</a>
+      <a href="insert.php" ,>Registration</a>
+      <a href="Logout.php" ,>Logout</a>
+      <a href="Thankyou.php" ,>Thank you></a>
 </center>
 
 <hr>
