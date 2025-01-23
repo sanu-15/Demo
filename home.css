@@ -1,0 +1,39 @@
+* {
+  background-color: rgb(13, 113, 55);
+}
+a {
+  text-decoration: hov;
+  color: #dce2eb;
+  margin: 50px 10px;
+}
+
+a:hover {
+  color: rgb(142, 235, 181);
+  font-size: 20px;
+}
+p {
+  color: #f8fffc;
+}
+b {
+  border-radius: 50px;
+  border-color: rgb(255, 251, 251);
+}
+h2 {
+  color: #f3f7f5;
+}
+img {
+  border-color: rgb(233, 237, 239);
+}
+h1 {
+  color: rgb(234, 239, 239);
+}
+th {
+  color: rgb(255, 255, 255);
+  column-gap: 10px;
+}
+footer {
+  margin-top: 20px;
+  color: hsl(140, 14%, 92%);
+  padding: 10px 0;
+  font-style: italic;
+}
